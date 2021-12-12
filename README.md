@@ -3,7 +3,7 @@
 
 ## So lets go ahead and download the [Lextras](https://github.com/DevSeek/Lextra) source-code from github. 
 
-##You can either fork it from my github page or you can download it from going to the top of [Lextra](https://github.com/DevSeek/Lextra) and clicking on the "Code" dropdown button and selecting "Download Zip" after you do that all you'll have to do is extract the files within zip somewhere on your computer then after that just open up VSC(Visual Studio Code)
+## You can either fork it from my github page or you can download it from going to the top of [Lextra](https://github.com/DevSeek/Lextra) and clicking on the "Code" dropdown button and selecting "Download Zip" after you do that all you'll have to do is extract the files within zip somewhere on your computer then after that just open up VSC(Visual Studio Code)
 
 
 Now you have to install all the packages and that's actually really easy for Linux and Windows just type
