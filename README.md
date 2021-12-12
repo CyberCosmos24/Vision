@@ -14,8 +14,6 @@ npm i
 
 So now that we have what's required for the packages we can simply just go into the config.json and apply the bots id and token which can be found [here](https://discord.com/developers/applications)
 
-So now that we have what's required for the packages we can simply just go into the config.json and apply the bots id and token which can be found [here](https://discord.com/developers/applications)
-
 For the final step just run this command within the terminal in VSC. (If You'd like to use this with commands prompt just remove the ; and replace it with && like `node .\deploy-commands.js && node .`)
 
 ```
