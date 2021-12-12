@@ -6,17 +6,17 @@
 ##You can either fork it from my github page or you can download it from going to the top of [Lextra](https://github.com/DevSeek/Lextra) and clicking on the "Code" dropdown button and selecting "Download Zip" after you do that all you'll have to do is extract the files within zip somewhere on your computer then after that just open up VSC(Visual Studio Code)
 
 
-###Now you have to install all the packages and that's actually really easy for Linux and Windows just type
+Now you have to install all the packages and that's actually really easy for Linux and Windows just type
 
 ```
 npm i
 ```
 
-###So now that we have what's required for the packages we can simply just go into the config.json and apply the bots id and token which can be found [here](https://discord.com/developers/applications)
+So now that we have what's required for the packages we can simply just go into the config.json and apply the bots id and token which can be found [here](https://discord.com/developers/applications)
 
-###So now that we have what's required for the packages we can simply just go into the config.json and apply the bots id and token which can be found [here](https://discord.com/developers/applications)
+So now that we have what's required for the packages we can simply just go into the config.json and apply the bots id and token which can be found [here](https://discord.com/developers/applications)
 
-### For the final step just run this command within the terminal in VSC. (If You'd like to use this with commands prompt just remove the ; and replace it with && like `node .\deploy-commands.js && node .`)
+For the final step just run this command within the terminal in VSC. (If You'd like to use this with commands prompt just remove the ; and replace it with && like `node .\deploy-commands.js && node .`)
 
 ```
 cls; node .\deploy-commands.js; node .
