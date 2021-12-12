@@ -1,0 +1,25 @@
+{
+  "name": "lextra",
+  "version": "0.0.1",
+  "description": "Another Multi-Purpose Bot",
+  "main": "lextra.js",
+  "scripts": {
+    "test": "node --version"
+  },
+  "keywords": [
+    "Discord",
+    "Multi-Purpose",
+    "discord.js"
+  ],
+  "author": "DevSeek",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "crimson": "^1.0.0",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.3.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "random-gif-api": "^1.0.4"
+  }
+}
