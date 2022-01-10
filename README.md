@@ -22,7 +22,9 @@ cls; node .\deploy-commands.js; node .
 
 Done!
 
-If you need help with this bot join these guilds below \n
-Offical DJS Server: https://discord.gg/djs \n
-Discord API Server: https://discord.gg/discord-api \n
-World Of Coding Server: https://discord.gg/program \n 
+If you need help with this bot join these guilds below 
+```
+Offical DJS Server: https://discord.gg/djs
+Discord API Server: https://discord.gg/discord-api 
+World Of Coding Server: https://discord.gg/program  
+```
