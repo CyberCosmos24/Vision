@@ -1,0 +1,18 @@
+{
+    "apps" : [{
+        "name"        : "vision",
+        "script"      : "./vision.js",
+        "watch"       : true,
+        "env": {
+            "NODE_ENV": "development"
+        },
+        "env_production" : {
+            "NODE_ENV": "production"
+        }
+    },{
+        "name"       : "commands",
+        "script"     : "./deploy-commands.js",
+        "instances"  : 4,
+        "exec_mode"  : "fork"
+    }]
+}
